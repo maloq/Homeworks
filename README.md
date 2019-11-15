@@ -1,2 +1,2 @@
 # Homeworks
-Just some an ITTP and MIPT homeworks
+Just some of ITTP and MIPT homeworks
